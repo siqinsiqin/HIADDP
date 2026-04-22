@@ -18,3 +18,27 @@ To train the model, run:
 
 ```bash
 python trainLuna.py
+```
+
+## Acknowledgements
+
+We would like to sincerely thank the authors of the following works for making their code and dataset publicly available. Their valuable resources provided important support for this project.
+
+This repository benefited from the following resources:
+
+- Jiang, W., Zhi, L., Zhang, S., Zhou, T.  
+  *A Dual-Branch Framework With Prior Knowledge for Precise Segmentation of Lung Nodules in Challenging CT Scans*.  
+  *IEEE Journal of Biomedical and Health Informatics*, 2024.
+
+- Zhi, L., Jiang, W., Zhang, S., Zhou, T.  
+  *Deep neural network pulmonary nodule segmentation methods for CT images: Literature review and experimental comparisons*.  
+  *Mendeley Data*, V4, 2024.  
+  DOI: 10.17632/f32p8brkgd.4
+
+- Konz, N., Chen, Y., Dong, H., Mazurowski, M. A.  
+  *Anatomically-Controllable Medical Image Generation with Segmentation-Guided Diffusion Models*.  
+  *MICCAI*, 2024.
+
+- Chen, Q., Chen, X., Song, H., Xiong, Z., Yuille, A., Wei, C., Zhou, Z.  
+  *Towards Generalizable Tumor Synthesis*.  
+  *CVPR*, 2024.
