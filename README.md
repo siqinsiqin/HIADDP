@@ -7,7 +7,7 @@ This is the generated 3D lung nodule dataset used in the paper:
 [https://drive.google.com/drive/folders/1DRobAG4q74TmFleKz4KJNf9G2zIrJeLc?usp=drive_link](https://drive.google.com/drive/folders/1DRobAG4q74TmFleKz4KJNf9G2zIrJeLc?usp=drive_link)
 
 This is the generated 2D lung nodule dataset used in the paper:  
-(under review)
+[https://data.mendeley.com/datasets/rxksykjcpy](https://data.mendeley.com/datasets/rxksykjcpy)
 
 This is the original dataset used in the paper:  
 [https://data.mendeley.com/datasets/f32p8brkgd/4](https://data.mendeley.com/datasets/f32p8brkgd/4)
